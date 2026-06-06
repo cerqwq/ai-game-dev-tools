@@ -39,7 +39,7 @@ mechanic = tools.design_game_mechanic("RPG", "技能树系统")
 level = tools.generate_level("平台跳跃", "medium", "森林")
 
 # NPC对话
-dialogue = tools.generate_npc_dialogue("商人", "友孴", "玩家首次进入")
+dialogue = tools.generate_npc_dialogue("商人", "友好", "玩家首次进入")
 
 # 任务生成
 quest = tools.generate_quest("奇幻世界", "主线")
